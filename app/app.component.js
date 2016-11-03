@@ -1,4 +1,4 @@
-(function(app)) {
+(function(app) {
   app.AppComponent =
     ng.core.Component({
       selector: 'my-app',
