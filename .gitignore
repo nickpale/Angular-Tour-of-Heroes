@@ -19,6 +19,7 @@
 npm-debug.log
 testem.log
 /typings
+/*.bak
 
 # e2e
 /e2e/*.js
